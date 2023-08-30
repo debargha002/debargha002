@@ -25,6 +25,6 @@ I'm always hungry to learn and grow. Currently, I'm diving deeper into advanced 
 
 ### 📫 Let's Connect
 
-Looking to collaborate on interesting data projects, exchange knowledge, or just have a chat about data? Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/debargha-datta02)
+Looking to collaborate on interesting data projects, exchange knowledge, or just have a chat about data? Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/debargha-datta02) and [Tableau](https://public.tableau.com/app/profile/debargha.datta)
 
 Remember, every dataset tells a story – and I'm here to help you decipher it. 📊✨
