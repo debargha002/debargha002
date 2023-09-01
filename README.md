@@ -13,9 +13,9 @@ Welcome to my GitHub corner! I'm passionate about turning data into actionable i
 
 ### 🛠️ Tools & Skills
 
-- **Languages:** R, SQL
+- **Languages and Software:** R, MySQL, MS Excel, Tableau
 - **Data Manipulation:** dplyr, tidyr, data.table
-- **Statistical Analysis:** Hypothesis testing, regression
+- **Statistical Analysis:** Hypothesis testing, Regression
 - **Data Visualization:** ggplot2
 - **Database Management:** MySQL
 
