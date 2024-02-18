@@ -13,10 +13,10 @@ Welcome to my GitHub corner! I'm passionate about turning data into actionable i
 
 ### 🛠️ Tools & Skills
 
-- **Languages and Software:** R, MySQL, MS Excel, Tableau
-- **Data Manipulation:** dplyr, tidyr, data.table
+- **Languages and Software:** Python, MySQL, MS Excel, Tableau
+- **Data Analysis libraries:** pandas, numpy, scipy, BeautifulSoup, 
 - **Statistical Analysis:** Hypothesis testing, Regression
-- **Data Visualization:** ggplot2
+- **Data Visualization:** seaborn, matplotlib, plotly, 
 - **Database Management:** MySQL
 
 ### 🌱 Learning Journey
@@ -27,4 +27,3 @@ I'm always hungry to learn and grow. Currently, I'm diving deeper into advanced 
 
 Looking to collaborate on interesting data projects, exchange knowledge, or just have a chat about data? Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/debargha-datta02) , [Tableau](https://public.tableau.com/app/profile/debargha.datta) or my Gmail- dattadebargha1123@gmail.com
 
-Remember, every dataset tells a story – and I'm here to help you decipher it. 📊✨
