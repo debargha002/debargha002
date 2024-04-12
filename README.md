@@ -13,7 +13,7 @@ Welcome to my GitHub corner! I'm passionate about turning data into actionable i
 
 ### 🛠️ Tools & Skills
 
-- **Languages and Software:** Python, MySQL, MS Excel, Tableau
+- **Languages and Software:** Python, MySQL, MS Excel, Tableau, Jupyter Notebooks
 - **Data Analysis libraries:** pandas, numpy, scipy, BeautifulSoup, 
 - **Statistical Analysis:** Hypothesis testing, Regression
 - **Data Visualization:** seaborn, matplotlib, plotly, 
